@@ -1,2 +1,2 @@
 # bookbot
-Repo I created following boor.dev tutorial
+BookBot is my first git project!
